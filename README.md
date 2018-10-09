@@ -5,8 +5,8 @@ P.S. it will show you lots of informations about this room and sth about questio
 <pre>
                            
                                                 {        }      
-                                             }   }   {  {
-                                            {   {    }  }
+                                             }   }  {   {
+                                            {   {    }   }
                                              }   }  {   {
                                             {        }
                                           ___________________
